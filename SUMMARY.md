@@ -11,4 +11,6 @@
 
         * [命令集合](tools/gitbook/command.md)
 
+        * [发布到githubPage](tools/gitbook/publish.md)
+
         * [问题与解答](tools/gitbook/issue.md)
