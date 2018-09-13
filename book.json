@@ -1,0 +1,25 @@
+{
+    "root": "",
+    "title": "leo笔记",
+    "description": "leo笔记",
+    "language": "zh-hans",
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia",
+            "family": "msyh",
+            "size": 2
+        }
+    },
+    "pdf": {
+        "pageNumbers": true,
+        "fontFamily": "Arial",
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 56,
+            "bottom": 56
+        }
+    }
+}
