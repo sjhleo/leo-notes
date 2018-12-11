@@ -4,7 +4,7 @@
 * [java](java/readme.md)
     * [netty](java/netty/readme.md)
         * [服务端Channel的创建](java/netty/serverChannelCreate.md)
-        * [NioEventLopp](java/netty/NioEventLoop.md)
+        * [NioEventLoop](java/netty/NioEventLoop.md)
 * [工具介绍](tools/readme.md)
 
     * [GitBook](tools/gitbook/readme.md)
